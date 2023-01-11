@@ -1,4 +1,5 @@
 # Trulia Page
+![Trulia](images/trulia.png)
 
 ## Objectives
 - Combine CSS Grid with Flexbox.
