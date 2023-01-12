@@ -25,7 +25,6 @@ We'll still give you content, colors, and fonts like the last assignment but thi
 Your solution should include every part of the provided site:
 - Navigation menu
 - Twelve listing elements in a 3x4 grid (CSS Grid is recommended for this part of the layout)
-- Pagination and bread crumbs links
 - Bottom Page copy ("Real Estate Insights")
 - Footer
 
