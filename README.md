@@ -1,6 +1,9 @@
 # Trulia Page
-![Trulia](images/trulia.png)
+## Current State
+![Trulia](images/12.23.23-current-site-state.png)
 
+## Mock Up Example
+![Trulia](images/trulia.png)
 ## Objectives
 - Combine CSS Grid with Flexbox.
 - Deeply nest HTML elements.
