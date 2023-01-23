@@ -5,13 +5,13 @@
 ## Mock Up Example
 ![Trulia](images/trulia.png)
 ## Objectives
-- **[Done]** Combine CSS Grid with Flexbox. 
-- **[Done]** Deeply nest HTML elements.
-- **[Done]** Use classes with your CSS.
-- **[Done]** Style a full website from start to finish.
-- *To-Do* **Bonus:** Plan cross-device compatibility. 
+- Combine CSS Grid with Flexbox. *Done*
+- Deeply nest HTML elements. *Done*
+- Use classes with your CSS. *Done*
+- Style a full website from start to finish. *Done*
+- **Bonus:** Plan cross-device compatibility. *To-Do*
 
-## Rebuild a Page From Trulia
+## Problem Statement: Rebuild a Page From Trulia
 Now you're stepping into the big leagues -- you'll be rebuilding part of a real website: trulia.com
 
 We'll still give you content, colors, and fonts like the last assignment but this is much more difficult.  You'll need to consider how to create this layout before diving in.
@@ -26,10 +26,10 @@ We'll still give you content, colors, and fonts like the last assignment but thi
 
 ## Technical Requirements
 Your solution should include every part of the provided site:
-- Navigation menu
-- Twelve listing elements in a 3x4 grid (CSS Grid is recommended for this part of the layout)
-- Bottom Page copy ("Real Estate Insights")
-- Footer
+- Navigation menu *Done*
+- Twelve listing elements in a 3x4 grid (CSS Grid is recommended for this part of the layout) *Done*
+- Bottom Page copy ("Real Estate Insights") *TBD*
+- Footer *To-Do*
 
 ## When Is It Due?
 This is due Monday January 23, 2023
