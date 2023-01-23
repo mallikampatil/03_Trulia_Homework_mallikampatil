@@ -5,11 +5,11 @@
 ## Mock Up Example
 ![Trulia](images/trulia.png)
 ## Objectives
-- Combine CSS Grid with Flexbox.
-- Deeply nest HTML elements.
-- Use classes with your CSS.
-- Style a full website from start to finish.
-- **Bonus:** Plan cross-device compatibility.
+- **[Done]** Combine CSS Grid with Flexbox. 
+- **[Done]** Deeply nest HTML elements.
+- **[Done]** Use classes with your CSS.
+- **[Done]** Style a full website from start to finish.
+- *To-Do* **Bonus:** Plan cross-device compatibility. 
 
 ## Rebuild a Page From Trulia
 Now you're stepping into the big leagues -- you'll be rebuilding part of a real website: trulia.com
