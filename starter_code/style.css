@@ -23,7 +23,7 @@ body {
 }
 
 .trulia-nav-section {
-    background: #20c063;
+    background: RGBA(32,192,99,1);
     padding: 10px;
     display: flex;
 }
